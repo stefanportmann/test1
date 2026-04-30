@@ -1,4 +1,5 @@
 1st line
+2nd
 This is bar
 Add other changes.....
 
